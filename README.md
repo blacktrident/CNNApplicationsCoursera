@@ -1,2 +1,2 @@
 # CNNApplicationsCoursera
-Open the Ipynb notebooks to see the working of each project
+Open the python notebooks to see the working of each project
